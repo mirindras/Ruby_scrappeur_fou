@@ -37,7 +37,7 @@ Ce programme recupere toutes les noms et l'adresse email de tout les deputés de
 
 Groupe 1:
 
-- RANDRIANOMEARISOA Mario
+- RANDRIANOMENARISOA Mario
 
 - SOLOFONIAINA Anjara Mirindra
 
