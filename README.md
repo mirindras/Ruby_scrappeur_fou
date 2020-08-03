@@ -39,7 +39,7 @@ Groupe 1:
 
 - RANDRIANOMEARISOA Mario
 
-- MIRINDRA SOLOFONIAINA
+- SOLOFONIAINA Anjara Mirindra
 
 - Rajerison Jules Raharimalala
 
